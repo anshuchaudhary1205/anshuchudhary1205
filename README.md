@@ -1,4 +1,4 @@
-![logo](https://github.com/anshuchaudhary1205/Anshul-chaudhary/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif)
+![logo](https://github.com/anshuchaudhary1205/anshuchudhary1205/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Anshul chaudhary</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 <img align="right" alt="coding" width="400" src ="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
